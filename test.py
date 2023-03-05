@@ -10,8 +10,5 @@ class sieunhan:
 
 sieu_nhan_A = sieunhan("Kteam", "Knowledge" , "tim rim")  
 print(sieu_nhan_A.xin_chao())
-<<<<<<< HEAD
 test 02_test  _test 03
-=======
 test 02 _ Tetest 04
->>>>>>> 280b328 (checkout branch04)
