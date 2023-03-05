@@ -10,5 +10,5 @@ class sieunhan:
 
 sieu_nhan_A = sieunhan("Kteam", "Knowledge" , "tim rim")  
 print(sieu_nhan_A.xin_chao())
-test 02_test  _test 03
+test 02_test  _test 03 _ test python_04
 test 02 _ Tetest 04
